@@ -1,126 +1,56 @@
-# Hi, I'm Abhinav Gupta 👋
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    ABHINAV GUPTA — PROFILE                    -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-### 🚀 AI/ML Enthusiast | Full-Stack Developer | Co-Founder @ KhetHub
+<div align="center">
 
-I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, and AgriTech**.
+# 👋 Hey, I'm **Abhinav Gupta**
 
-Currently, I'm building **KhetHub**, an AI-powered Smart Agriculture platform focused on helping farmers make better decisions using **AI, IoT, and real-time field data**.
+### `AI/ML Engineer • Full-Stack Developer • Builder • Entrepreneur`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+AI-powered+real-world+solutions;Co-Founder+%40+KhetHub+%F0%9F%8C%B1;Exploring+AI%2C+IoT+%26+Edge+Computing;Turning+ideas+into+working+products;Always+learning.+Always+building." />
 
-## 👨‍💻 About Me
+<br/>
 
-- 🎓 B.Tech CSE — COER University
-- 🤖 Specializing in Artificial Intelligence & Machine Learning
-- 🚀 Co-Founder at **KhetHub**
-- 🌱 Building solutions for **Smart & Precision Agriculture**
-- 💻 Interested in **AI/ML, Full-Stack Development & IoT**
-- 📚 Currently improving my **DSA, Development & Machine Learning** skills
-- 🔬 Interested in research and real-world AI applications
-- 🎯 Goal: Build technology that solves meaningful real-world problems
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github"/>
+</a>
 
----
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars"/>
+</a>
 
-## 🚀 What I'm Working On
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 🌾 KhetHub
-
-**AI + IoT powered Smart Agriculture platform**
-
-KhetHub aims to help farmers monitor their fields and make data-driven decisions through:
-
-- 🌱 Real-Time Soil Monitoring
-- 💧 Smart Irrigation
-- 🤖 AI-Based Crop Disease Detection
-- 🌦️ Weather & Crop Insights
-- 📊 Farmer Dashboard
-- 🚨 Smart Alerts & Notifications
-- 📡 IoT-Based Field Monitoring
-- 🧠 AI-Powered Decision Support
-
-> **Turning farm data into simple, actionable decisions.**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Who Am I?
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+```python
+class AbhinavGupta:
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+    role = [
+        "Computer Science Student",
+        "AI/ML Enthusiast",
+        "Full-Stack Developer",
+        "Entrepreneur"
+    ]
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    currently_building = "KhetHub 🌱"
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "IoT",
+        "Smart Agriculture",
+        "Full-Stack Development",
+        "Research"
+    ]
 
-### IoT & Hardware
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+    philosophy = "Build → Experiment → Learn → Improve"
 
----
-
-## 📌 Featured Projects
-
-### 🌾 KhetHub — Smart Agriculture Platform
-AI + IoT based agriculture platform for real-time field monitoring, crop health analysis and smart irrigation.
-
-**Tech:** Python • AI/ML • IoT • Raspberry Pi • React • Node.js • MongoDB
-
----
-
-### 🤖 AI Crop Disease Detection
-Machine learning system that analyzes crop images and identifies potential diseases to support early intervention.
-
-**Tech:** Python • TensorFlow • Keras • Computer Vision
-
----
-
-### 💧 Smart Irrigation System
-IoT-based irrigation system that uses real-time soil moisture data to determine when irrigation is required.
-
-**Tech:** Raspberry Pi • Sensors • Python • IoT
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-```text
-Data Structures & Algorithms
-        ↓
-Full-Stack Development
-        ↓
-Machine Learning & AI
-        ↓
-IoT & Edge Computing
-        ↓
-AI-powered Real-World Systems
+    goal = "Build technology that solves real-world problems."
