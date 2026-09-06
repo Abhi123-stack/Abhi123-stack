@@ -8,6 +8,8 @@
 
 Co-Founder at **KhetHub** · Exploring **AI, IoT & Smart Agriculture**
 
+![Profile views](https://komarev.com/ghpvc/?username=Abhi123-stack&label=Profile%20views&color=0891b2&style=flat)
+
 [Explore my repositories](https://github.com/Abhi123-stack?tab=repositories) &nbsp; / &nbsp; [Current focus](#current-focus) &nbsp; / &nbsp; [Connect](#connect)
 
 </div>
@@ -52,7 +54,6 @@ The projects below outline my portfolio direction. Planned entries are placehold
 | :--- | :--- | :--- |
 | **Awaasi** | Student accommodation discovery, with planned property search, listings, and student–owner workflows. | Planned |
 | **FraudGuard AI** | Fraud detection and risk analysis, with planned model comparison, evaluation, and an API. | Planned |
-| **DevPulse** | API monitoring, with planned availability checks, response-time tracking, and incident reporting. | Planned |
 | **KhetHub** | AI + IoT smart agriculture initiative aimed at translating field data into actionable insights. | In development |
 
 <!-- Replace each placeholder with a verified repository link when published. Add only implemented features and measured results; do not present the planned scope as completed work. -->
