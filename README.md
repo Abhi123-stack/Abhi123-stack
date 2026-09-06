@@ -1,91 +1,87 @@
-<!-- ========================================================= -->
-<!--                    ABHINAV GUPTA                          -->
-<!--              GITHUB PROFILE README                        -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- ======================= HERO ============================ -->
+# Abhinav Gupta
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,40:0f172a,70:164e63,100:0891b2&text=ABHINAV%20GUPTA&fontSize=58&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20FULL-STACK%20%7C%20IoT%20%7C%20FOUNDER&descAlignY=58&descSize=19"/>
+**Computer Science Engineering Student · AI & ML · Full-Stack Development**
 
-<br/>
+### Turning ideas into useful software—and connecting it to the real world.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=Computer+Science+Engineering+Student+%F0%9F%92%BB;Artificial+Intelligence+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Co-Founder+%40+KhetHub+%F0%9F%8C%B1;Building+AI+%2B+IoT+Solutions;Exploring+Computer+Vision+%26+Edge+AI;Turning+Ideas+Into+Real+Products;Learning.+Building.+Experimenting.+Repeating."/>
+Co-Founder at **KhetHub** · Exploring **AI, IoT & Smart Agriculture**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Explorer-38BDF8?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full--Stack-Developer-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-Builder-22C55E?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Founder-KhetHub-F59E0B?style=for-the-badge&logo=startup&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&label=Stars"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=Profile+Views"/>
+[Explore my repositories](https://github.com/Abhi123-stack?tab=repositories) &nbsp; / &nbsp; [Current focus](#current-focus) &nbsp; / &nbsp; [Connect](#connect)
 
 </div>
 
-<br/>
-
 ---
 
-# 👋 Hey, I'm Abhinav
+## About me
+
+I'm **Abhinav Gupta**, a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**. My interests span web applications, machine learning, and the connection between software and physical devices.
+
+I'm currently building **KhetHub**, an AI + IoT smart agriculture initiative focused on turning field data into practical decisions for farmers. Alongside it, I'm developing my software engineering foundations and planning a portfolio of focused, well-documented projects.
+
+**Seeking internships and entry-level opportunities in software development and AI/ML.**
+
+## Tech stack & learning roadmap
+
+My intended portfolio stack is below; it reflects my learning direction, not a claim of proficiency in every tool.
+
+| Area | Technologies to develop through projects |
+| :--- | :--- |
+| Languages | Python · JavaScript · TypeScript · SQL |
+| Frontend | HTML · CSS · React · Next.js |
+| Backend & data | Node.js · Express · PostgreSQL · Prisma |
+| AI & machine learning | NumPy · pandas · scikit-learn · FastAPI |
+| Engineering tools | Git · GitHub · Docker |
+| Exploration | Computer vision · IoT · Edge AI |
+
+<!-- Update the table as your hands-on experience grows. Keep only technologies you can discuss honestly in an interview. -->
+
+## Current focus
+
+- **KhetHub:** exploring how AI and connected devices can support agricultural decisions.
+- **Full-stack engineering:** learning to connect useful interfaces, APIs, and relational data.
+- **Applied ML:** understanding data preparation, model evaluation, and serving predictions.
+- **Placement preparation:** strengthening data structures, algorithms, and core CS fundamentals.
+
+## Featured projects
+
+The projects below outline my portfolio direction. Planned entries are placeholders; repository and demo links will be added when available.
+
+| Project | Purpose & intended scope | Status |
+| :--- | :--- | :--- |
+| **Awaasi** | Student accommodation discovery, with planned property search, listings, and student–owner workflows. | Planned |
+| **FraudGuard AI** | Fraud detection and risk analysis, with planned model comparison, evaluation, and an API. | Planned |
+| **DevPulse** | API monitoring, with planned availability checks, response-time tracking, and incident reporting. | Planned |
+| **KhetHub** | AI + IoT smart agriculture initiative aimed at translating field data into actionable insights. | In development |
+
+<!-- Replace each placeholder with a verified repository link when published. Add only implemented features and measured results; do not present the planned scope as completed work. -->
+
+## Achievements & milestones
+
+- **Co-Founder, KhetHub** — working on an initiative at the intersection of AI, IoT, and agriculture.
+
+<!-- Add verified awards, certifications, hackathon results, or shipped milestones here when available. Include the organizer, date, and evidence link. No achievements or metrics have been invented. -->
+
+## GitHub stats
+
+[![GitHub followers](https://img.shields.io/github/followers/Abhi123-stack?style=flat&label=Followers&color=0891b2)](https://github.com/Abhi123-stack?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Abhi123-stack?style=flat&label=Public%20stars&color=0891b2)](https://github.com/Abhi123-stack?tab=repositories)
+
+[Contribution activity](https://github.com/Abhi123-stack?tab=overview) · [Public repositories](https://github.com/Abhi123-stack?tab=repositories) · [Followers](https://github.com/Abhi123-stack?tab=followers)
+
+<sub>Badges load live public data through Shields.io. The links above provide direct access to my GitHub activity.</sub>
+
+## Connect
+
+I'm interested in internships, entry-level roles, and collaborations involving full-stack development, applied AI, or IoT.
+
+**GitHub:** [@Abhi123-stack](https://github.com/Abhi123-stack)
+
+<!-- Add your real professional email, LinkedIn profile, and resume URL here when ready. No unverified contact addresses or placeholder links are included. -->
+
+---
 
 <div align="center">
-
-### `I build technology at the intersection of AI, software, hardware and real-world problems.`
-
+  <sub>Build thoughtfully. Test carefully. Keep learning.</sub>
 </div>
-
-I'm **Abhinav Gupta**, a Computer Science Engineering student focused on **Artificial Intelligence and Machine Learning**.
-
-I'm interested in understanding how technology works from multiple layers — from writing code and designing APIs to training machine learning models and connecting software with physical hardware.
-
-Currently, I'm building **KhetHub**, an AI + IoT based Smart Agriculture platform focused on helping farmers turn field data into simple, actionable decisions.
-
----
-
-# 🧑‍💻 About Me
-
-```python
-class AbhinavGupta:
-
-    name = "Abhinav Gupta"
-
-    education = "B.Tech Computer Science Engineering"
-
-    specialization = "Artificial Intelligence & Machine Learning"
-
-    roles = [
-        "AI/ML Enthusiast",
-        "Full-Stack Developer",
-        "IoT Explorer",
-        "Builder",
-        "Entrepreneur"
-    ]
-
-    currently_building = "KhetHub 🌱"
-
-    primary_interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Full-Stack Development",
-        "IoT",
-        "Edge Computing",
-        "AgriTech",
-        "Research"
-    ]
-
-    development_philosophy = "Build → Test → Learn → Improve"
-
-    long_term_goal = "Build technology that creates real-world impact"
