@@ -79,7 +79,9 @@ I'm interested in internships, entry-level roles, and collaborations involving f
 
 **GitHub:** [@Abhi123-stack](https://github.com/Abhi123-stack)
 
-<!-- Add your real professional email, LinkedIn profile, and resume URL here when ready. No unverified contact addresses or placeholder links are included. -->
+**LinkedIn:** [Abhinav Gupta](https://www.linkedin.com/in/abhinav-gupta-674912325)
+
+<!-- Add your real professional email and resume URL here when ready. No unverified contact addresses or placeholder links are included. -->
 
 ---
 
